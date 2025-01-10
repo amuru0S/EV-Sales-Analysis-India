@@ -75,18 +75,9 @@ Gaining a clear understanding of the available data is essential prior to analys
 		CAGR = [(Ending Value / Beginning Value) ** 1/n] -1
 
 ## :loudspeaker:Key Learnings:
-* 
-
-
-
-
-
-
-
-  
-  
-
-
-
-
-
+* Created reports using Top N Slicers, Filters, Clustered Column charts, Line and Clustered Column charts, Donut/Pie charts, buttons and shapes.
+* Performed dynamic ranking (top/bottom filtration with Top-N Slicer) on the Sales by State and Makers page.
+* Bookmarks and selection options are used to navigate through reports and pages across States and Makers.
+* Page , visualization and report filters are applied through out the data.
+* Categorized the measures into folders and subfolders and provided proper documentation for each measure.
+* Did a huge research for choosing the appropirate colour pallete to maintain the consistancy of the reports for the pleasant yet eye-catchy dashboards.
