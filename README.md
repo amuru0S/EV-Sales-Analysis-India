@@ -2,7 +2,7 @@
 This Project is about conducting an extensive analysis of Electric vehicle sales of category 4-wheelers and 2-wheelers in India. This is one of Resume Project Challenges #12 from Codebasics.
 Contains sales data for electric vehicles from various manufacturers and states.
 
-:bar_chart:[LIVE Dashboard](https://app.powerbi.com/groups/me/reports/f2a0248d-e481-4300-b132-4e67293c582c/b16fa5e69512a1aac55f?experience=power-bi)
+:bar_chart:[LIVE Dashboard](https://app.powerbi.com/groups/me/reports/f2a0248d-e481-4300-b132-4e67293c582c/b16fa5e69512a1aac55f?experience=power-bi&bookmarkGuid=209d82135b22b76484e3)
 :triangular_flag_on_post:[LinkedIn Post](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 :link:[Challenge Link from Codebasics](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
@@ -61,27 +61,35 @@ Gaining a clear understanding of the available data is essential before analysis
 ## :bar_chart:Dashboard Overview:
 
 ### :chart_with_upwards_trend:Home Page:
-<img width="580" alt="image" src="https://github.com/user-attachments/assets/bba544eb-691a-4226-9a80-ec67be890e99" />
+<img width="578" alt="image" src="https://github.com/user-attachments/assets/51064831-b901-456e-8123-577fe7506915" />
 
 ### :chart_with_upwards_trend:States Analysis View:
-<img width="584" alt="image" src="https://github.com/user-attachments/assets/fa4399ad-183d-4405-bb9b-529103ec4222" />
+<img width="584" alt="image" src="https://github.com/user-attachments/assets/c6fb9c77-2478-4322-8f26-60b0f05dec58" />
 
 ### :chart_with_downwards_trend:Makers Analysis View:
-<img width="584" alt="image" src="https://github.com/user-attachments/assets/eefae4f9-3986-4911-97c2-d6b6dc1c149f" />
+<img width="584" alt="image" src="https://github.com/user-attachments/assets/e5bcbdca-3e13-4169-9a1a-c3d644e7a577" />
+
+### :chart_with_downwards_trend:Statewise Comparision View:
+<img width="583" alt="image" src="https://github.com/user-attachments/assets/e41f6b11-6aee-4a8d-9c54-a26f7885fe7a" />
+
+### :chart_with_downwards_trend:Filter Panel:
+<img width="587" alt="image" src="https://github.com/user-attachments/assets/e9e5bdf5-df67-4c0b-bd8f-87c41a202530" />
 
 ## :muscle:Calculated Metrics Used:
-* Penetration Rate: This metric represents the percentage of total vehicles that are electric within a specific region or category. It is calculated as:
+* Penetration Rate: This metric represents the percentage of electric vehicles within a specific region or category. It is calculated as:
 		Penetration Rate =  (Electric Vehicles Sold / Total Vehicles Sold) * 100  
    This indicates the adoption level of electric vehicles.
   
-* Compound Annual Growth Rate (CAGR): CAGR measures the mean annual growth rate over a specified period longer than one year. It is calculated as:
+* Compound Annual Growth Rate (CAGR): CAGR measures the mean annual growth rate over a period longer than one year. It is calculated as:
 		CAGR = [(Ending Value / Beginning Value) ** 1/n] -1
 
 ## :loudspeaker:Key Learnings:
 * Created reports using Top N Slicers, Filters, Clustered Column charts, Line and Clustered Column charts, Donut/Pie charts, buttons, and shapes.
 * Performed dynamic ranking (top/bottom filtration with Top-N Slicer) on the Sales by State and Makers page.
-* Bookmarks and selection options are used to navigate through reports and pages across States and Makers.
+* Created Show/Close Filter Panel which provides the full view of the dashboards without any hindrance.
+* Bookmarks and selection options are used to navigate reports and pages across States and Makers.
+* Tooltips are used for all the icons and better visualizations of the Statewise Comparison View.
 * Page, visualization, and report filters are applied throughout the data.
 * Categorized the measures into folders and subfolders for all the Key measures.
-* Did huge research for choosing the appropriate color palette to maintain the consistency of the reports for the pleasant yet eye-catching dashboards.
+* Did a lot of research for choosing the appropriate color palette to maintain the consistency of the reports for the pleasant yet eye-catching dashboards.
 * Prepared PowerPoint Presentation to present better insights on the project to the Stakeholders.
