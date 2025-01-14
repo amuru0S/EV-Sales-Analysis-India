@@ -61,19 +61,22 @@ Gaining a clear understanding of the available data is essential before analysis
 ## :bar_chart:Dashboard Overview:
 
 ### :chart_with_upwards_trend:Home Page:
-<img width="578" alt="image" src="https://github.com/user-attachments/assets/51064831-b901-456e-8123-577fe7506915" />
+<img width="575" alt="image" src="https://github.com/user-attachments/assets/df551ded-bb8d-4108-bebb-63c43006049b" />
 
 ### :chart_with_upwards_trend:States Analysis View:
-<img width="584" alt="image" src="https://github.com/user-attachments/assets/c6fb9c77-2478-4322-8f26-60b0f05dec58" />
+<img width="584" alt="image" src="https://github.com/user-attachments/assets/bde30ed2-c44a-445c-b315-a00996d22b9a" />
 
 ### :chart_with_downwards_trend:Makers Analysis View:
-<img width="584" alt="image" src="https://github.com/user-attachments/assets/e5bcbdca-3e13-4169-9a1a-c3d644e7a577" />
+<img width="586" alt="image" src="https://github.com/user-attachments/assets/158408b4-ba9d-446b-9e2d-a26c4255b86f" />
 
 ### :chart_with_downwards_trend:Statewise Comparision View:
-<img width="583" alt="image" src="https://github.com/user-attachments/assets/e41f6b11-6aee-4a8d-9c54-a26f7885fe7a" />
+<img width="584" alt="image" src="https://github.com/user-attachments/assets/83fc49d9-e57e-47de-aa13-c3e90241692c" />
 
 ### :chart_with_downwards_trend:Filter Panel:
-<img width="587" alt="image" src="https://github.com/user-attachments/assets/e9e5bdf5-df67-4c0b-bd8f-87c41a202530" />
+<img width="588" alt="image" src="https://github.com/user-attachments/assets/d55bd443-b51b-4bc0-80fa-b01bb9fdd1e5" />
+
+### :chart_with_downwards_trend:EV Sold for each category by Month in a Tooltip for better analyzation:
+<img width="617" alt="image" src="https://github.com/user-attachments/assets/9e121f7b-eb94-450f-a248-10e6b8595afc" />
 
 ## :muscle:Calculated Metrics Used:
 * Penetration Rate: This metric represents the percentage of electric vehicles within a specific region or category. It is calculated as:
@@ -87,6 +90,7 @@ Gaining a clear understanding of the available data is essential before analysis
 * Created reports using Top N Slicers, Filters, Clustered Column charts, Line and Clustered Column charts, Donut/Pie charts, buttons, and shapes.
 * Performed dynamic ranking (top/bottom filtration with Top-N Slicer) on the Sales by State and Makers page.
 * Created Show/Close Filter Panel which provides the full view of the dashboards without any hindrance.
+* Created Show/Hide 
 * Bookmarks and selection options are used to navigate reports and pages across States and Makers.
 * Tooltips are used for all the icons and better visualizations of the Statewise Comparison View.
 * Page, visualization, and report filters are applied throughout the data.
