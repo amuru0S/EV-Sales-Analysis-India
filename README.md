@@ -2,7 +2,7 @@
 This Project is about conducting an extensive analysis of Electric vehicle sales of category 4-wheelers and 2-wheelers in India. This is one of Resume Project Challenges #12 from Codebasics.
 Contains sales data for electric vehicles from various manufacturers and states.
 
-:bar_chart:[LIVE Dashboard](https://app.powerbi.com/groups/me/reports/f2a0248d-e481-4300-b132-4e67293c582c/b16fa5e69512a1aac55f?experience=power-bi&bookmarkGuid=209d82135b22b76484e3)
+:bar_chart:[Live Dashboard Link](https://app.powerbi.com/reportEmbed?reportId=f2a0248d-e481-4300-b132-4e67293c582c&autoAuth=true&ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4)
 :triangular_flag_on_post:[LinkedIn Post](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 :link:[Challenge Link from Codebasics](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
