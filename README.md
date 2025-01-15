@@ -3,7 +3,7 @@ This Project is about conducting an extensive analysis of Electric vehicle sales
 Contains sales data for electric vehicles from various manufacturers and states.
 
 :bar_chart:[Live Dashboard Link](https://app.powerbi.com/reportEmbed?reportId=f2a0248d-e481-4300-b132-4e67293c582c&autoAuth=true&ctid=c6e549b3-5f45-4032-aae9-d4244dc5b2c4)
-:triangular_flag_on_post:[LinkedIn Post](https://codebasics.io/challenge/codebasics-resume-project-challenge)
+:triangular_flag_on_post:[LinkedIn Post](https://www.linkedin.com/posts/swethaamuru_electric-vehicle-sales-analysis-report-activity-7284929022579339264-d6mY?utm_source=share&utm_medium=member_desktop)
 :link:[Challenge Link from Codebasics](https://codebasics.io/challenge/codebasics-resume-project-challenge)
 
 ## :memo:Table of Contents:
